@@ -74,7 +74,7 @@ public class RecommendServiceImpl implements RecommendService {
     }
 
     /**
-     * 根据所有用户购买商品的记录进行数据手机
+     * 根据所有用户购买商品的记录进行数据电脑
      *
      * @return List<RelateDTO>
      */
